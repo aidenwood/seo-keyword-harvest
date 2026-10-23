@@ -75,6 +75,32 @@ nightshift start blog-night --until 07:00 \
   --freeze house-style.md
 ```
 
+## IndexNow — same-day indexing on Bing, DuckDuckGo, Ecosia and Yandex
+
+```bash
+node indexnow.mjs            # all sites, changed URLs only
+node indexnow.mjs --all      # resubmit everything
+node indexnow.mjs austrails  # one site
+```
+
+Google ignores IndexNow, but Bing's index feeds DuckDuckGo and Ecosia, and
+submission lands in hours rather than waiting on a crawl that — for a new domain
+with no backlinks — can be weeks away.
+
+It reads each site's **live** sitemap rather than a local build, so it works no
+matter which repo deployed last and it catches a site whose build skipped a
+step. The key file is verified before anything is sent, because IndexNow
+silently rejects a batch whose key does not resolve.
+
+Changed URLs only, by default: a digest of each site's URL list is cached, and
+resubmitting an identical list every run is how you train the endpoint to ignore
+you. `--all` overrides it.
+
+**One script, not one per repo.** Four copies of the same submitter become four
+versions of it the moment one gets fixed. Two of these sites had a key committed
+in September and had never submitted once — the key is useless on its own, and
+"remember to submit after deploying" is not a process.
+
 ## Config
 
 `config/projects.json` — seeds, geo/language, and the exclusion lists:

@@ -59,7 +59,22 @@
       "offline mode",
       "download netflix",
       "spotify offline"
-    ]
+    ],
+    "requireAny": [
+      "hik",
+      "walk",
+      "trail",
+      "bushwalk",
+      "track",
+      "waterfall",
+      "summit",
+      "national park",
+      "offline map",
+      "gpx",
+      "elevation",
+      "grade"
+    ],
+    "indexNowKey": "4a9804bf1524490ab650a929eadd425b"
   },
   "ltx": {
     "site": "https://ltx.aidxn.com",
@@ -78,7 +93,42 @@
       "pika labs",
       "sora pricing"
     ],
-    "blockTerms": []
+    "blockTerms": [
+      "after effects",
+      "blender",
+      "cinema 4d",
+      "c4d",
+      "maya",
+      "octane",
+      "redshift",
+      "apple pay",
+      "apple watch",
+      "apple tv",
+      "cider",
+      "recycle water",
+      "data center cooling"
+    ],
+    "requireAny": [
+      "render farm",
+      "ai video",
+      "video generation",
+      "video generator",
+      "mlx",
+      "apple silicon",
+      "gpu",
+      "inference",
+      "local ai",
+      "artificial intelligence",
+      "machine learning",
+      "ltx",
+      "neural engine",
+      "m4",
+      "m3",
+      "m2 max",
+      "m1 max",
+      "render"
+    ],
+    "indexNowKey": "9a7fa581529066519d518ddf8cf99b07"
   },
   "whisperline": {
     "site": "https://whisperline.aidxn.com",
@@ -95,7 +145,30 @@
       "rev.com",
       "descript pricing"
     ],
-    "blockTerms": []
+    "blockTerms": [
+      "reverse transcription",
+      "rna",
+      "dna",
+      "polymerase",
+      "translator",
+      "text offline",
+      "translate"
+    ],
+    "requireAny": [
+      "transcri",
+      "speech to text",
+      "voice to text",
+      "subtitle",
+      "caption",
+      "diaris",
+      "diariz",
+      "audio to text",
+      "srt",
+      "vtt",
+      "whisper",
+      "dictation"
+    ],
+    "indexNowKey": "c6310480f85c478fac2f6eeeec1d9133"
   },
   "tradepilot": {
     "site": "https://trade.aidxn.com",
@@ -114,6 +187,28 @@
       "etoro",
       "interactive brokers"
     ],
-    "blockTerms": []
+    "blockTerms": [
+      "nfl",
+      "nba",
+      "fantasy",
+      "gif",
+      "meme",
+      "pokemon",
+      "card trade"
+    ],
+    "requireAny": [
+      "stock",
+      "trading",
+      "trade signal",
+      "portfolio",
+      "market",
+      "ticker",
+      "sentiment analysis",
+      "screener",
+      "equities",
+      "investing",
+      "shares"
+    ],
+    "indexNowKey": "dd61f40c8e38424bb1bfbbd444bc0b58"
   }
 }

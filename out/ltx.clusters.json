@@ -635,53 +635,6 @@
     ]
   },
   {
-    "id": "do-server-farm-recycle-water",
-    "head": "do server farm recycle water",
-    "metric": "demand",
-    "score": 204,
-    "size": 5,
-    "members": [
-      "do server farm recycle water",
-      "server farm water usage",
-      "server farm water cooling",
-      "server farm water use",
-      "server farm water"
-    ]
-  },
-  {
-    "id": "what-generation-is-macbook-air-2020",
-    "head": "what generation is macbook air 2020",
-    "metric": "demand",
-    "score": 168,
-    "size": 2,
-    "members": [
-      "what generation is macbook air 2020",
-      "what generation is my macbook air"
-    ]
-  },
-  {
-    "id": "render-farm-after-effects",
-    "head": "render farm after effects",
-    "metric": "demand",
-    "score": 166,
-    "size": 2,
-    "members": [
-      "render farm after effects",
-      "render farm for after effects"
-    ]
-  },
-  {
-    "id": "can-macbook-air-run-blender",
-    "head": "can macbook air run blender",
-    "metric": "demand",
-    "score": 150,
-    "size": 2,
-    "members": [
-      "can macbook air run blender",
-      "can after effects run on macbook air"
-    ]
-  },
-  {
     "id": "how-much-do-render-farms-cost",
     "head": "how much do render farms cost",
     "metric": "demand",
@@ -712,50 +665,6 @@
     "members": [
       "is apple mlx open source",
       "apple mlx open source"
-    ]
-  },
-  {
-    "id": "can-non-apple-users-use-apple-pay",
-    "head": "can non apple users use apple pay",
-    "metric": "demand",
-    "score": 88,
-    "size": 2,
-    "members": [
-      "can non apple users use apple pay",
-      "can non apple users use apple tv"
-    ]
-  },
-  {
-    "id": "server-farm-vs-data-center",
-    "head": "server farm vs data center",
-    "metric": "demand",
-    "score": 78,
-    "size": 2,
-    "members": [
-      "server farm vs data center",
-      "server farm data center"
-    ]
-  },
-  {
-    "id": "can-you-unlock-mac-mini-with-apple-watch",
-    "head": "can you unlock mac mini with apple watch",
-    "metric": "demand",
-    "score": 66,
-    "size": 2,
-    "members": [
-      "can you unlock mac mini with apple watch",
-      "can i use mac mini as apple tv"
-    ]
-  },
-  {
-    "id": "can-you-use-frozen-apples-for-cider",
-    "head": "can you use frozen apples for cider",
-    "metric": "demand",
-    "score": 36,
-    "size": 2,
-    "members": [
-      "can you use frozen apples for cider",
-      "can i use frozen apples for apple cake"
     ]
   }
 ]
