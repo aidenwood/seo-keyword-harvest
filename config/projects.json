@@ -210,5 +210,33 @@
       "shares"
     ],
     "indexNowKey": "dd61f40c8e38424bb1bfbbd444bc0b58"
+  },
+  "docs": {
+    "site": "https://docs.aidxn.com",
+    "gl": "us",
+    "hl": "en",
+    "seeds": [],
+    "indexNowKey": "f1b0d2575f4744a58f026797bfa82c7c"
+  },
+  "ui": {
+    "site": "https://ui.aidxn.com",
+    "gl": "us",
+    "hl": "en",
+    "seeds": [],
+    "indexNowKey": "0891c2bc1d5246e6a156133fb2c6a786"
+  },
+  "webp": {
+    "site": "https://webp.aidxn.com",
+    "gl": "us",
+    "hl": "en",
+    "seeds": [],
+    "indexNowKey": "d2aa96fb3cef4c3fa6681d008a606af7"
+  },
+  "midi": {
+    "site": "https://midi.aidxn.com",
+    "gl": "us",
+    "hl": "en",
+    "seeds": [],
+    "indexNowKey": "7257838ea05441d28f05a60d5cf7a12d"
   }
 }
