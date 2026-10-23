@@ -1,0 +1,3183 @@
+[
+  {
+    "phrase": "does live transcribe work offline",
+    "metric": "demand",
+    "demand": 206,
+    "appearances": 17,
+    "bestRank": 1,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "local speech to text app",
+    "metric": "demand",
+    "demand": 190,
+    "appearances": 15,
+    "bestRank": 0,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "what app can transcribe audio to text",
+    "metric": "demand",
+    "demand": 186,
+    "appearances": 15,
+    "bestRank": 1,
+    "seeds": [
+      "whisper transcription app"
+    ]
+  },
+  {
+    "phrase": "local speech to text model",
+    "metric": "demand",
+    "demand": 180,
+    "appearances": 14,
+    "bestRank": 0,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "local speech to text transcription",
+    "metric": "demand",
+    "demand": 180,
+    "appearances": 14,
+    "bestRank": 0,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "local speech to text llm",
+    "metric": "demand",
+    "demand": 180,
+    "appearances": 14,
+    "bestRank": 0,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "local speech to text python",
+    "metric": "demand",
+    "demand": 180,
+    "appearances": 14,
+    "bestRank": 0,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "local speech to text windows",
+    "metric": "demand",
+    "demand": 180,
+    "appearances": 14,
+    "bestRank": 0,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "how to transcribe audio on macbook",
+    "metric": "demand",
+    "demand": 176,
+    "appearances": 14,
+    "bestRank": 1,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "local speech to text mac",
+    "metric": "demand",
+    "demand": 176,
+    "appearances": 14,
+    "bestRank": 1,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "local speech to text android",
+    "metric": "demand",
+    "demand": 176,
+    "appearances": 14,
+    "bestRank": 1,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "local speech to text ai",
+    "metric": "demand",
+    "demand": 172,
+    "appearances": 14,
+    "bestRank": 2,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "local speech to text",
+    "metric": "demand",
+    "demand": 170,
+    "appearances": 13,
+    "bestRank": 0,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "how to transcribe audio to text on mac",
+    "metric": "demand",
+    "demand": 152,
+    "appearances": 12,
+    "bestRank": 2,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "how do i transcribe an audio file to text on a mac",
+    "metric": "demand",
+    "demand": 148,
+    "appearances": 12,
+    "bestRank": 3,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "is there an app for transcribing",
+    "metric": "demand",
+    "demand": 148,
+    "appearances": 12,
+    "bestRank": 3,
+    "seeds": [
+      "whisper transcription app"
+    ]
+  },
+  {
+    "phrase": "what is online transcription",
+    "metric": "demand",
+    "demand": 146,
+    "appearances": 11,
+    "bestRank": 1,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "how do you speech to text",
+    "metric": "demand",
+    "demand": 146,
+    "appearances": 11,
+    "bestRank": 1,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "how to transcribe audio on a mac",
+    "metric": "demand",
+    "demand": 136,
+    "appearances": 10,
+    "bestRank": 1,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "is there a transcription app",
+    "metric": "demand",
+    "demand": 122,
+    "appearances": 9,
+    "bestRank": 2,
+    "seeds": [
+      "whisper transcription app"
+    ]
+  },
+  {
+    "phrase": "what is the best free offline translator",
+    "metric": "demand",
+    "demand": 112,
+    "appearances": 8,
+    "bestRank": 2,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "transcribe audio mac app",
+    "metric": "demand",
+    "demand": 110,
+    "appearances": 7,
+    "bestRank": 0,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "transcribe audio mac free",
+    "metric": "demand",
+    "demand": 110,
+    "appearances": 7,
+    "bestRank": 0,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "transcribe audio mac os",
+    "metric": "demand",
+    "demand": 100,
+    "appearances": 6,
+    "bestRank": 0,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "is there a program that will transcribe audio to text",
+    "metric": "demand",
+    "demand": 98,
+    "appearances": 7,
+    "bestRank": 3,
+    "seeds": [
+      "whisper transcription app"
+    ]
+  },
+  {
+    "phrase": "transcribe audio file mac",
+    "metric": "demand",
+    "demand": 96,
+    "appearances": 6,
+    "bestRank": 1,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "transcribe audio mac",
+    "metric": "demand",
+    "demand": 90,
+    "appearances": 5,
+    "bestRank": 0,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "transcribe audio word mac",
+    "metric": "demand",
+    "demand": 90,
+    "appearances": 5,
+    "bestRank": 0,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "local speech to text with the whisper cli no api key",
+    "metric": "demand",
+    "demand": 90,
+    "appearances": 5,
+    "bestRank": 0,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "handy local offline speech to text for your desktop",
+    "metric": "demand",
+    "demand": 90,
+    "appearances": 5,
+    "bestRank": 0,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "is there a free transcription app",
+    "metric": "demand",
+    "demand": 86,
+    "appearances": 5,
+    "bestRank": 1,
+    "seeds": [
+      "offline transcription",
+      "whisper transcription app"
+    ]
+  },
+  {
+    "phrase": "local speech to text with the whisper cli",
+    "metric": "demand",
+    "demand": 86,
+    "appearances": 5,
+    "bestRank": 1,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "transcribe audio macbook",
+    "metric": "demand",
+    "demand": 82,
+    "appearances": 5,
+    "bestRank": 2,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "transcribe audio mac notes",
+    "metric": "demand",
+    "demand": 82,
+    "appearances": 5,
+    "bestRank": 2,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "transcribe system audio mac",
+    "metric": "demand",
+    "demand": 82,
+    "appearances": 5,
+    "bestRank": 2,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "most accurate transcription app",
+    "metric": "demand",
+    "demand": 82,
+    "appearances": 5,
+    "bestRank": 2,
+    "seeds": [
+      "whisper transcription app"
+    ]
+  },
+  {
+    "phrase": "free whisper transcription app",
+    "metric": "demand",
+    "demand": 80,
+    "appearances": 4,
+    "bestRank": 0,
+    "seeds": [
+      "whisper transcription app"
+    ]
+  },
+  {
+    "phrase": "whisper transcription app for windows",
+    "metric": "demand",
+    "demand": 80,
+    "appearances": 4,
+    "bestRank": 0,
+    "seeds": [
+      "whisper transcription app"
+    ]
+  },
+  {
+    "phrase": "local speech to text with diarization",
+    "metric": "demand",
+    "demand": 80,
+    "appearances": 4,
+    "bestRank": 0,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "is there an app for speech to text",
+    "metric": "demand",
+    "demand": 78,
+    "appearances": 5,
+    "bestRank": 3,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "offline transcription software free",
+    "metric": "demand",
+    "demand": 76,
+    "appearances": 4,
+    "bestRank": 1,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "whisper transcription app for mac",
+    "metric": "demand",
+    "demand": 76,
+    "appearances": 4,
+    "bestRank": 1,
+    "seeds": [
+      "whisper transcription app"
+    ]
+  },
+  {
+    "phrase": "is there an app that takes dictation",
+    "metric": "demand",
+    "demand": 72,
+    "appearances": 4,
+    "bestRank": 2,
+    "seeds": [
+      "whisper transcription app"
+    ]
+  },
+  {
+    "phrase": "best free local speech to text",
+    "metric": "demand",
+    "demand": 72,
+    "appearances": 4,
+    "bestRank": 2,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "offline transcription app",
+    "metric": "demand",
+    "demand": 70,
+    "appearances": 3,
+    "bestRank": 0,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "best offline transcription software",
+    "metric": "demand",
+    "demand": 70,
+    "appearances": 3,
+    "bestRank": 0,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "can mac transcribe audio to text",
+    "metric": "demand",
+    "demand": 70,
+    "appearances": 3,
+    "bestRank": 0,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "how to transcribe audio mac",
+    "metric": "demand",
+    "demand": 70,
+    "appearances": 3,
+    "bestRank": 0,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "whisper transcription app mac",
+    "metric": "demand",
+    "demand": 70,
+    "appearances": 3,
+    "bestRank": 0,
+    "seeds": [
+      "whisper transcription app"
+    ]
+  },
+  {
+    "phrase": "whisper transcription app store",
+    "metric": "demand",
+    "demand": 70,
+    "appearances": 3,
+    "bestRank": 0,
+    "seeds": [
+      "whisper transcription app"
+    ]
+  },
+  {
+    "phrase": "whisper transcription app windows",
+    "metric": "demand",
+    "demand": 70,
+    "appearances": 3,
+    "bestRank": 0,
+    "seeds": [
+      "whisper transcription app"
+    ]
+  },
+  {
+    "phrase": "whisper transcription app android",
+    "metric": "demand",
+    "demand": 70,
+    "appearances": 3,
+    "bestRank": 0,
+    "seeds": [
+      "whisper transcription app"
+    ]
+  },
+  {
+    "phrase": "whisper transcription app github",
+    "metric": "demand",
+    "demand": 70,
+    "appearances": 3,
+    "bestRank": 0,
+    "seeds": [
+      "whisper transcription app"
+    ]
+  },
+  {
+    "phrase": "whisper transcription app reddit",
+    "metric": "demand",
+    "demand": 70,
+    "appearances": 3,
+    "bestRank": 0,
+    "seeds": [
+      "whisper transcription app"
+    ]
+  },
+  {
+    "phrase": "best local speech to text model",
+    "metric": "demand",
+    "demand": 70,
+    "appearances": 3,
+    "bestRank": 0,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "best local speech to text model reddit",
+    "metric": "demand",
+    "demand": 68,
+    "appearances": 4,
+    "bestRank": 3,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "best open source local text to speech",
+    "metric": "demand",
+    "demand": 68,
+    "appearances": 4,
+    "bestRank": 3,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "offline transcription app android",
+    "metric": "demand",
+    "demand": 66,
+    "appearances": 3,
+    "bestRank": 1,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "best offline transcription app",
+    "metric": "demand",
+    "demand": 66,
+    "appearances": 3,
+    "bestRank": 1,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "translate audio mac",
+    "metric": "demand",
+    "demand": 66,
+    "appearances": 5,
+    "bestRank": 6,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "transcribe audio to text mac free",
+    "metric": "demand",
+    "demand": 66,
+    "appearances": 3,
+    "bestRank": 1,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "free local speech to text ai",
+    "metric": "demand",
+    "demand": 66,
+    "appearances": 3,
+    "bestRank": 1,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "can i convert speech to text",
+    "metric": "demand",
+    "demand": 66,
+    "appearances": 3,
+    "bestRank": 1,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "best offline transcription tool",
+    "metric": "demand",
+    "demand": 62,
+    "appearances": 3,
+    "bestRank": 2,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "offline medical transcription work from home",
+    "metric": "demand",
+    "demand": 62,
+    "appearances": 3,
+    "bestRank": 2,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "free offline transcription app",
+    "metric": "demand",
+    "demand": 62,
+    "appearances": 3,
+    "bestRank": 2,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "transcribe audio to text mac app",
+    "metric": "demand",
+    "demand": 62,
+    "appearances": 3,
+    "bestRank": 2,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "transcribe audio file to text mac free",
+    "metric": "demand",
+    "demand": 62,
+    "appearances": 3,
+    "bestRank": 2,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "best local speech to text reddit",
+    "metric": "demand",
+    "demand": 62,
+    "appearances": 3,
+    "bestRank": 2,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "best local speech to text python",
+    "metric": "demand",
+    "demand": 62,
+    "appearances": 3,
+    "bestRank": 2,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "local text to speech with emotion",
+    "metric": "demand",
+    "demand": 62,
+    "appearances": 3,
+    "bestRank": 2,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "how to access speech to text in word",
+    "metric": "demand",
+    "demand": 62,
+    "appearances": 3,
+    "bestRank": 2,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "local speech to text on windows",
+    "metric": "demand",
+    "demand": 62,
+    "appearances": 3,
+    "bestRank": 2,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "offline transcription software",
+    "metric": "demand",
+    "demand": 60,
+    "appearances": 2,
+    "bestRank": 0,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "offline transcription tool",
+    "metric": "demand",
+    "demand": 60,
+    "appearances": 2,
+    "bestRank": 0,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "offline transcription device",
+    "metric": "demand",
+    "demand": 60,
+    "appearances": 2,
+    "bestRank": 0,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "offline transcription jobs",
+    "metric": "demand",
+    "demand": 60,
+    "appearances": 2,
+    "bestRank": 0,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "offline transcription free",
+    "metric": "demand",
+    "demand": 60,
+    "appearances": 2,
+    "bestRank": 0,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "offline dictionary with transcription",
+    "metric": "demand",
+    "demand": 60,
+    "appearances": 2,
+    "bestRank": 0,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "is there an offline transcription app",
+    "metric": "demand",
+    "demand": 60,
+    "appearances": 2,
+    "bestRank": 0,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "transcribe audio for mac",
+    "metric": "demand",
+    "demand": 60,
+    "appearances": 2,
+    "bestRank": 0,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "mac transcribe audio from video",
+    "metric": "demand",
+    "demand": 60,
+    "appearances": 2,
+    "bestRank": 0,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "whisper transcription app",
+    "metric": "demand",
+    "demand": 60,
+    "appearances": 2,
+    "bestRank": 0,
+    "seeds": [
+      "whisper transcription app"
+    ]
+  },
+  {
+    "phrase": "best whisper transcription app",
+    "metric": "demand",
+    "demand": 60,
+    "appearances": 2,
+    "bestRank": 0,
+    "seeds": [
+      "whisper transcription app"
+    ]
+  },
+  {
+    "phrase": "whisper transcription app download",
+    "metric": "demand",
+    "demand": 60,
+    "appearances": 2,
+    "bestRank": 0,
+    "seeds": [
+      "whisper transcription app"
+    ]
+  },
+  {
+    "phrase": "whisper transcription app ios",
+    "metric": "demand",
+    "demand": 60,
+    "appearances": 2,
+    "bestRank": 0,
+    "seeds": [
+      "whisper transcription app"
+    ]
+  },
+  {
+    "phrase": "local speech to text home assistant",
+    "metric": "demand",
+    "demand": 60,
+    "appearances": 2,
+    "bestRank": 0,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "free local speech to text",
+    "metric": "demand",
+    "demand": 60,
+    "appearances": 2,
+    "bestRank": 0,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "local speech to text open source",
+    "metric": "demand",
+    "demand": 60,
+    "appearances": 2,
+    "bestRank": 0,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "local speech to text software",
+    "metric": "demand",
+    "demand": 60,
+    "appearances": 2,
+    "bestRank": 0,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "best offline transcription model",
+    "metric": "demand",
+    "demand": 58,
+    "appearances": 3,
+    "bestRank": 3,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "best local speech to text app",
+    "metric": "demand",
+    "demand": 58,
+    "appearances": 3,
+    "bestRank": 3,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "offline ai transcription device",
+    "metric": "demand",
+    "demand": 56,
+    "appearances": 2,
+    "bestRank": 1,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "offline medical transcription jobs",
+    "metric": "demand",
+    "demand": 56,
+    "appearances": 2,
+    "bestRank": 1,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "audio transcription app mac",
+    "metric": "demand",
+    "demand": 56,
+    "appearances": 2,
+    "bestRank": 1,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "can mac transcribe audio",
+    "metric": "demand",
+    "demand": 56,
+    "appearances": 2,
+    "bestRank": 1,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "audio transcription mac os",
+    "metric": "demand",
+    "demand": 56,
+    "appearances": 2,
+    "bestRank": 1,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "translate audio on mac",
+    "metric": "demand",
+    "demand": 56,
+    "appearances": 2,
+    "bestRank": 1,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "buzz whisper transcription app github",
+    "metric": "demand",
+    "demand": 56,
+    "appearances": 2,
+    "bestRank": 1,
+    "seeds": [
+      "whisper transcription app"
+    ]
+  },
+  {
+    "phrase": "whisper transcription mac app store",
+    "metric": "demand",
+    "demand": 56,
+    "appearances": 2,
+    "bestRank": 1,
+    "seeds": [
+      "whisper transcription app"
+    ]
+  },
+  {
+    "phrase": "voice recorders that transcribe to text",
+    "metric": "demand",
+    "demand": 56,
+    "appearances": 2,
+    "bestRank": 1,
+    "seeds": [
+      "whisper transcription app"
+    ]
+  },
+  {
+    "phrase": "local voice to text app",
+    "metric": "demand",
+    "demand": 56,
+    "appearances": 2,
+    "bestRank": 1,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "best local speech to text",
+    "metric": "demand",
+    "demand": 56,
+    "appearances": 2,
+    "bestRank": 1,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "local text to speech voice cloning",
+    "metric": "demand",
+    "demand": 56,
+    "appearances": 2,
+    "bestRank": 1,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "nextcloud local whisper speech to text",
+    "metric": "demand",
+    "demand": 56,
+    "appearances": 2,
+    "bestRank": 1,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "local speech to text raspberry pi",
+    "metric": "demand",
+    "demand": 56,
+    "appearances": 2,
+    "bestRank": 1,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "best local speech to text ai",
+    "metric": "demand",
+    "demand": 54,
+    "appearances": 3,
+    "bestRank": 4,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "python local text to speech coqui tts",
+    "metric": "demand",
+    "demand": 54,
+    "appearances": 3,
+    "bestRank": 4,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "speech to text conversion free",
+    "metric": "demand",
+    "demand": 54,
+    "appearances": 3,
+    "bestRank": 4,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "how to use speech to text app",
+    "metric": "demand",
+    "demand": 54,
+    "appearances": 3,
+    "bestRank": 4,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "offline transcription android",
+    "metric": "demand",
+    "demand": 52,
+    "appearances": 2,
+    "bestRank": 2,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "best offline transcription",
+    "metric": "demand",
+    "demand": 52,
+    "appearances": 2,
+    "bestRank": 2,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "offline video transcription software",
+    "metric": "demand",
+    "demand": 52,
+    "appearances": 2,
+    "bestRank": 2,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "transcribe audio to text for mac",
+    "metric": "demand",
+    "demand": 52,
+    "appearances": 2,
+    "bestRank": 2,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "whisper app for transcription",
+    "metric": "demand",
+    "demand": 52,
+    "appearances": 2,
+    "bestRank": 2,
+    "seeds": [
+      "whisper transcription app"
+    ]
+  },
+  {
+    "phrase": "words to use for whisper test",
+    "metric": "demand",
+    "demand": 52,
+    "appearances": 2,
+    "bestRank": 2,
+    "seeds": [
+      "whisper transcription app"
+    ]
+  },
+  {
+    "phrase": "google offline transcription",
+    "metric": "demand",
+    "demand": 50,
+    "appearances": 1,
+    "bestRank": 0,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "what is the best offline translator",
+    "metric": "demand",
+    "demand": 50,
+    "appearances": 3,
+    "bestRank": 5,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "offline live transcription",
+    "metric": "demand",
+    "demand": 50,
+    "appearances": 1,
+    "bestRank": 0,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "offline transcription mac",
+    "metric": "demand",
+    "demand": 50,
+    "appearances": 1,
+    "bestRank": 0,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "offline transcription open source",
+    "metric": "demand",
+    "demand": 50,
+    "appearances": 1,
+    "bestRank": 0,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "offline privacy transcription",
+    "metric": "demand",
+    "demand": 50,
+    "appearances": 1,
+    "bestRank": 0,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "offline video transcription",
+    "metric": "demand",
+    "demand": 50,
+    "appearances": 1,
+    "bestRank": 0,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "offline transcription windows",
+    "metric": "demand",
+    "demand": 50,
+    "appearances": 1,
+    "bestRank": 0,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "transcribe audio in mac",
+    "metric": "demand",
+    "demand": 50,
+    "appearances": 1,
+    "bestRank": 0,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "transcribe audio locally mac",
+    "metric": "demand",
+    "demand": 50,
+    "appearances": 1,
+    "bestRank": 0,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "microsoft word transcribe audio mac",
+    "metric": "demand",
+    "demand": 50,
+    "appearances": 1,
+    "bestRank": 0,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "transcribe audio recording mac",
+    "metric": "demand",
+    "demand": 50,
+    "appearances": 1,
+    "bestRank": 0,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "transcribe audio apple shortcut",
+    "metric": "demand",
+    "demand": 50,
+    "appearances": 1,
+    "bestRank": 0,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "transcribe audio to text mac",
+    "metric": "demand",
+    "demand": 50,
+    "appearances": 1,
+    "bestRank": 0,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "buzz whisper transcription app",
+    "metric": "demand",
+    "demand": 50,
+    "appearances": 1,
+    "bestRank": 0,
+    "seeds": [
+      "whisper transcription app"
+    ]
+  },
+  {
+    "phrase": "whisper local transcription app",
+    "metric": "demand",
+    "demand": 50,
+    "appearances": 1,
+    "bestRank": 0,
+    "seeds": [
+      "whisper transcription app"
+    ]
+  },
+  {
+    "phrase": "whisper voice transcription app",
+    "metric": "demand",
+    "demand": 50,
+    "appearances": 1,
+    "bestRank": 0,
+    "seeds": [
+      "whisper transcription app"
+    ]
+  },
+  {
+    "phrase": "local speech to text engine",
+    "metric": "demand",
+    "demand": 50,
+    "appearances": 1,
+    "bestRank": 0,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "local speech to text github",
+    "metric": "demand",
+    "demand": 50,
+    "appearances": 1,
+    "bestRank": 0,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "local speech to text ios",
+    "metric": "demand",
+    "demand": 50,
+    "appearances": 1,
+    "bestRank": 0,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "local speech to text reddit",
+    "metric": "demand",
+    "demand": 50,
+    "appearances": 1,
+    "bestRank": 0,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "unity local speech to text",
+    "metric": "demand",
+    "demand": 50,
+    "appearances": 1,
+    "bestRank": 0,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "local ai voice text to speech",
+    "metric": "demand",
+    "demand": 50,
+    "appearances": 1,
+    "bestRank": 0,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "offline transcription ai",
+    "metric": "demand",
+    "demand": 48,
+    "appearances": 2,
+    "bestRank": 3,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "turn off live transcribe",
+    "metric": "demand",
+    "demand": 48,
+    "appearances": 2,
+    "bestRank": 3,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "offline meeting transcription app",
+    "metric": "demand",
+    "demand": 48,
+    "appearances": 2,
+    "bestRank": 3,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "offline transcription software mac",
+    "metric": "demand",
+    "demand": 48,
+    "appearances": 2,
+    "bestRank": 3,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "offline transcription software windows",
+    "metric": "demand",
+    "demand": 48,
+    "appearances": 2,
+    "bestRank": 3,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "apple mac transcribe audio",
+    "metric": "demand",
+    "demand": 48,
+    "appearances": 2,
+    "bestRank": 3,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "transcribe audio to text mac os",
+    "metric": "demand",
+    "demand": 48,
+    "appearances": 2,
+    "bestRank": 3,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "local speech to text ai model",
+    "metric": "demand",
+    "demand": 48,
+    "appearances": 2,
+    "bestRank": 3,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "local llm for speech to text",
+    "metric": "demand",
+    "demand": 48,
+    "appearances": 2,
+    "bestRank": 3,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "local text to speech model ollama",
+    "metric": "demand",
+    "demand": 48,
+    "appearances": 2,
+    "bestRank": 3,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "text to speech local model reddit",
+    "metric": "demand",
+    "demand": 48,
+    "appearances": 2,
+    "bestRank": 3,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "offline transcription",
+    "metric": "demand",
+    "demand": 46,
+    "appearances": 1,
+    "bestRank": 1,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "buzz offline transcription",
+    "metric": "demand",
+    "demand": 46,
+    "appearances": 1,
+    "bestRank": 1,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "offline transcription flutter",
+    "metric": "demand",
+    "demand": 46,
+    "appearances": 1,
+    "bestRank": 1,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "offline transcription model",
+    "metric": "demand",
+    "demand": 46,
+    "appearances": 1,
+    "bestRank": 1,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "offline audio transcription tool",
+    "metric": "demand",
+    "demand": 46,
+    "appearances": 1,
+    "bestRank": 1,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "offline voice transcription",
+    "metric": "demand",
+    "demand": 46,
+    "appearances": 1,
+    "bestRank": 1,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "offline whisper transcription",
+    "metric": "demand",
+    "demand": 46,
+    "appearances": 1,
+    "bestRank": 1,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "transcribe audio macos",
+    "metric": "demand",
+    "demand": 46,
+    "appearances": 1,
+    "bestRank": 1,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "transcribe audio on a mac",
+    "metric": "demand",
+    "demand": 46,
+    "appearances": 1,
+    "bestRank": 1,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "transcribe audio apple intelligence",
+    "metric": "demand",
+    "demand": 46,
+    "appearances": 1,
+    "bestRank": 1,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "transcribe audio on mac",
+    "metric": "demand",
+    "demand": 46,
+    "appearances": 1,
+    "bestRank": 1,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "transcribe audio recording to text mac",
+    "metric": "demand",
+    "demand": 46,
+    "appearances": 1,
+    "bestRank": 1,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "audio transcription software mac",
+    "metric": "demand",
+    "demand": 46,
+    "appearances": 1,
+    "bestRank": 1,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "transcribe audio with mac",
+    "metric": "demand",
+    "demand": 46,
+    "appearances": 1,
+    "bestRank": 1,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "how to transcribe audio macbook",
+    "metric": "demand",
+    "demand": 46,
+    "appearances": 1,
+    "bestRank": 1,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "can macbook transcribe audio to text",
+    "metric": "demand",
+    "demand": 46,
+    "appearances": 1,
+    "bestRank": 1,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "whisper ai transcription app",
+    "metric": "demand",
+    "demand": 46,
+    "appearances": 1,
+    "bestRank": 1,
+    "seeds": [
+      "whisper transcription app"
+    ]
+  },
+  {
+    "phrase": "whisper transcribe desktop app",
+    "metric": "demand",
+    "demand": 46,
+    "appearances": 1,
+    "bestRank": 1,
+    "seeds": [
+      "whisper transcription app"
+    ]
+  },
+  {
+    "phrase": "whisper transcription web app",
+    "metric": "demand",
+    "demand": 46,
+    "appearances": 1,
+    "bestRank": 1,
+    "seeds": [
+      "whisper transcription app"
+    ]
+  },
+  {
+    "phrase": "whisper app alternative",
+    "metric": "demand",
+    "demand": 46,
+    "appearances": 1,
+    "bestRank": 1,
+    "seeds": [
+      "whisper transcription app"
+    ]
+  },
+  {
+    "phrase": "speech to text local docker",
+    "metric": "demand",
+    "demand": 46,
+    "appearances": 1,
+    "bestRank": 1,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "speech to text en local",
+    "metric": "demand",
+    "demand": 46,
+    "appearances": 1,
+    "bestRank": 1,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "fastest local speech to text",
+    "metric": "demand",
+    "demand": 46,
+    "appearances": 1,
+    "bestRank": 1,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "local speech to text german",
+    "metric": "demand",
+    "demand": 46,
+    "appearances": 1,
+    "bestRank": 1,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "local hosted speech to text",
+    "metric": "demand",
+    "demand": 46,
+    "appearances": 1,
+    "bestRank": 1,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "local speech to text iphone",
+    "metric": "demand",
+    "demand": 46,
+    "appearances": 1,
+    "bestRank": 1,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "local speech to text linux",
+    "metric": "demand",
+    "demand": 46,
+    "appearances": 1,
+    "bestRank": 1,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "local speech to text ollama",
+    "metric": "demand",
+    "demand": 46,
+    "appearances": 1,
+    "bestRank": 1,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "local speech to text tool",
+    "metric": "demand",
+    "demand": 46,
+    "appearances": 1,
+    "bestRank": 1,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "local speech to text whisper",
+    "metric": "demand",
+    "demand": 46,
+    "appearances": 1,
+    "bestRank": 1,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "offline audio transcription and translation",
+    "metric": "demand",
+    "demand": 44,
+    "appearances": 2,
+    "bestRank": 4,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "offline audio transcription app",
+    "metric": "demand",
+    "demand": 44,
+    "appearances": 2,
+    "bestRank": 4,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "offline voice transcription app",
+    "metric": "demand",
+    "demand": 44,
+    "appearances": 2,
+    "bestRank": 4,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "mac software transcribe audio to text",
+    "metric": "demand",
+    "demand": 44,
+    "appearances": 2,
+    "bestRank": 4,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "local model for speech to text",
+    "metric": "demand",
+    "demand": 44,
+    "appearances": 2,
+    "bestRank": 4,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "local text to speech ai open source",
+    "metric": "demand",
+    "demand": 44,
+    "appearances": 2,
+    "bestRank": 4,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "local real time speech to text",
+    "metric": "demand",
+    "demand": 44,
+    "appearances": 2,
+    "bestRank": 4,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "local llm with speech to text",
+    "metric": "demand",
+    "demand": 44,
+    "appearances": 2,
+    "bestRank": 4,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "letschat remote offline transcription jobs",
+    "metric": "demand",
+    "demand": 42,
+    "appearances": 1,
+    "bestRank": 2,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "offline transcription service",
+    "metric": "demand",
+    "demand": 42,
+    "appearances": 1,
+    "bestRank": 2,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "where does transcription end",
+    "metric": "demand",
+    "demand": 42,
+    "appearances": 1,
+    "bestRank": 2,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "transcribe audio in apple notes",
+    "metric": "demand",
+    "demand": 42,
+    "appearances": 1,
+    "bestRank": 2,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "transcribe audio on macbook",
+    "metric": "demand",
+    "demand": 42,
+    "appearances": 1,
+    "bestRank": 2,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "transcribe audio file word mac",
+    "metric": "demand",
+    "demand": 42,
+    "appearances": 1,
+    "bestRank": 2,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "how to transcribe audio on macbook pro",
+    "metric": "demand",
+    "demand": 42,
+    "appearances": 1,
+    "bestRank": 2,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "can you transcribe audio on mac",
+    "metric": "demand",
+    "demand": 42,
+    "appearances": 1,
+    "bestRank": 2,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "whisper based transcription app",
+    "metric": "demand",
+    "demand": 42,
+    "appearances": 1,
+    "bestRank": 2,
+    "seeds": [
+      "whisper transcription app"
+    ]
+  },
+  {
+    "phrase": "is whisper app free",
+    "metric": "demand",
+    "demand": 42,
+    "appearances": 1,
+    "bestRank": 2,
+    "seeds": [
+      "whisper transcription app"
+    ]
+  },
+  {
+    "phrase": "comfyui local text to speech",
+    "metric": "demand",
+    "demand": 42,
+    "appearances": 1,
+    "bestRank": 2,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "local voice to text github",
+    "metric": "demand",
+    "demand": 42,
+    "appearances": 1,
+    "bestRank": 2,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "handy local speech to text",
+    "metric": "demand",
+    "demand": 42,
+    "appearances": 1,
+    "bestRank": 2,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "speech to text in local",
+    "metric": "demand",
+    "demand": 42,
+    "appearances": 1,
+    "bestRank": 2,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "local live speech to text",
+    "metric": "demand",
+    "demand": 42,
+    "appearances": 1,
+    "bestRank": 2,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "local speech to text macos",
+    "metric": "demand",
+    "demand": 42,
+    "appearances": 1,
+    "bestRank": 2,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "local neural text to speech",
+    "metric": "demand",
+    "demand": 42,
+    "appearances": 1,
+    "bestRank": 2,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "local text to speech server",
+    "metric": "demand",
+    "demand": 42,
+    "appearances": 1,
+    "bestRank": 2,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "text to speech vietnamese local",
+    "metric": "demand",
+    "demand": 42,
+    "appearances": 1,
+    "bestRank": 2,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "offline ai transcription software",
+    "metric": "demand",
+    "demand": 40,
+    "appearances": 2,
+    "bestRank": 5,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "transcribe audio to text example",
+    "metric": "demand",
+    "demand": 40,
+    "appearances": 2,
+    "bestRank": 5,
+    "seeds": [
+      "whisper transcription app"
+    ]
+  },
+  {
+    "phrase": "is there a talk to text app",
+    "metric": "demand",
+    "demand": 40,
+    "appearances": 2,
+    "bestRank": 5,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "local ai for speech to text",
+    "metric": "demand",
+    "demand": 40,
+    "appearances": 2,
+    "bestRank": 5,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "run local speech to text model",
+    "metric": "demand",
+    "demand": 40,
+    "appearances": 2,
+    "bestRank": 5,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "offline audio file transcription",
+    "metric": "demand",
+    "demand": 38,
+    "appearances": 1,
+    "bestRank": 3,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "offline meeting transcription",
+    "metric": "demand",
+    "demand": 38,
+    "appearances": 1,
+    "bestRank": 3,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "transcribe vs transcription",
+    "metric": "demand",
+    "demand": 38,
+    "appearances": 1,
+    "bestRank": 3,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "offline real time transcription",
+    "metric": "demand",
+    "demand": 38,
+    "appearances": 1,
+    "bestRank": 3,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "offline video transcription ai",
+    "metric": "demand",
+    "demand": 38,
+    "appearances": 1,
+    "bestRank": 3,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "transcribe audio file macbook",
+    "metric": "demand",
+    "demand": 38,
+    "appearances": 1,
+    "bestRank": 3,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "transcription audio apple intelligence",
+    "metric": "demand",
+    "demand": 38,
+    "appearances": 1,
+    "bestRank": 3,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "mac shortcut transcribe audio",
+    "metric": "demand",
+    "demand": 38,
+    "appearances": 1,
+    "bestRank": 3,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "transcribe audio microsoft word mac",
+    "metric": "demand",
+    "demand": 38,
+    "appearances": 1,
+    "bestRank": 3,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "free transcribe audio to text for mac",
+    "metric": "demand",
+    "demand": 38,
+    "appearances": 1,
+    "bestRank": 3,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "how to transcribe audio on macbook air",
+    "metric": "demand",
+    "demand": 38,
+    "appearances": 1,
+    "bestRank": 3,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "what is whisper app",
+    "metric": "demand",
+    "demand": 38,
+    "appearances": 1,
+    "bestRank": 3,
+    "seeds": [
+      "whisper transcription app"
+    ]
+  },
+  {
+    "phrase": "fast local speech to text",
+    "metric": "demand",
+    "demand": 38,
+    "appearances": 1,
+    "bestRank": 3,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "google local speech to text",
+    "metric": "demand",
+    "demand": 38,
+    "appearances": 1,
+    "bestRank": 3,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "text to speech local install",
+    "metric": "demand",
+    "demand": 38,
+    "appearances": 1,
+    "bestRank": 3,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "best speech to text local llm",
+    "metric": "demand",
+    "demand": 38,
+    "appearances": 1,
+    "bestRank": 3,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "local natural text to speech",
+    "metric": "demand",
+    "demand": 38,
+    "appearances": 1,
+    "bestRank": 3,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "local text to speech program",
+    "metric": "demand",
+    "demand": 38,
+    "appearances": 1,
+    "bestRank": 3,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "local voice to text windows",
+    "metric": "demand",
+    "demand": 38,
+    "appearances": 1,
+    "bestRank": 3,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "speech to text french free",
+    "metric": "demand",
+    "demand": 38,
+    "appearances": 1,
+    "bestRank": 3,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "offline audio transcription software",
+    "metric": "demand",
+    "demand": 36,
+    "appearances": 2,
+    "bestRank": 6,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "local ai model for speech to text",
+    "metric": "demand",
+    "demand": 36,
+    "appearances": 2,
+    "bestRank": 6,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "offline audio transcription",
+    "metric": "demand",
+    "demand": 34,
+    "appearances": 1,
+    "bestRank": 4,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "transcript vs transcription",
+    "metric": "demand",
+    "demand": 34,
+    "appearances": 1,
+    "bestRank": 4,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "how to text offline",
+    "metric": "demand",
+    "demand": 34,
+    "appearances": 1,
+    "bestRank": 4,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "transcribe audio to text on a mac",
+    "metric": "demand",
+    "demand": 34,
+    "appearances": 1,
+    "bestRank": 4,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "audio transcription in mac",
+    "metric": "demand",
+    "demand": 34,
+    "appearances": 1,
+    "bestRank": 4,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "transcribe audio file to text mac",
+    "metric": "demand",
+    "demand": 34,
+    "appearances": 1,
+    "bestRank": 4,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "transcribe audio to text word mac",
+    "metric": "demand",
+    "demand": 34,
+    "appearances": 1,
+    "bestRank": 4,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "how to transcribe audio to text mac",
+    "metric": "demand",
+    "demand": 34,
+    "appearances": 1,
+    "bestRank": 4,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "can macbook transcribe audio",
+    "metric": "demand",
+    "demand": 34,
+    "appearances": 1,
+    "bestRank": 4,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "whisper transcription apple",
+    "metric": "demand",
+    "demand": 34,
+    "appearances": 1,
+    "bestRank": 4,
+    "seeds": [
+      "whisper transcription app"
+    ]
+  },
+  {
+    "phrase": "how to transcribe video audio to text",
+    "metric": "demand",
+    "demand": 34,
+    "appearances": 1,
+    "bestRank": 4,
+    "seeds": [
+      "whisper transcription app"
+    ]
+  },
+  {
+    "phrase": "whisper app reviews",
+    "metric": "demand",
+    "demand": 34,
+    "appearances": 1,
+    "bestRank": 4,
+    "seeds": [
+      "whisper transcription app"
+    ]
+  },
+  {
+    "phrase": "local speech to text api",
+    "metric": "demand",
+    "demand": 34,
+    "appearances": 1,
+    "bestRank": 4,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "local text to speech generator",
+    "metric": "demand",
+    "demand": 34,
+    "appearances": 1,
+    "bestRank": 4,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "homeassistant local speech to text",
+    "metric": "demand",
+    "demand": 34,
+    "appearances": 1,
+    "bestRank": 4,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "ai text to speech local install",
+    "metric": "demand",
+    "demand": 34,
+    "appearances": 1,
+    "bestRank": 4,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "local text to speech library",
+    "metric": "demand",
+    "demand": 34,
+    "appearances": 1,
+    "bestRank": 4,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "local offline neural text to speech on android",
+    "metric": "demand",
+    "demand": 34,
+    "appearances": 1,
+    "bestRank": 4,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "local offline speech to text",
+    "metric": "demand",
+    "demand": 34,
+    "appearances": 1,
+    "bestRank": 4,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "piper local text to speech",
+    "metric": "demand",
+    "demand": 34,
+    "appearances": 1,
+    "bestRank": 4,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "best local voice to text app",
+    "metric": "demand",
+    "demand": 34,
+    "appearances": 1,
+    "bestRank": 4,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "how does transcription and translation work",
+    "metric": "demand",
+    "demand": 30,
+    "appearances": 1,
+    "bestRank": 5,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "transcription offline speech",
+    "metric": "demand",
+    "demand": 30,
+    "appearances": 1,
+    "bestRank": 5,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "offline voice to text transcription",
+    "metric": "demand",
+    "demand": 30,
+    "appearances": 1,
+    "bestRank": 5,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "free offline video transcription",
+    "metric": "demand",
+    "demand": 30,
+    "appearances": 1,
+    "bestRank": 5,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "word transcribe audio file mac",
+    "metric": "demand",
+    "demand": 30,
+    "appearances": 1,
+    "bestRank": 5,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "transcribe audio to text in mac",
+    "metric": "demand",
+    "demand": 30,
+    "appearances": 1,
+    "bestRank": 5,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "transcribe audio file on mac",
+    "metric": "demand",
+    "demand": 30,
+    "appearances": 1,
+    "bestRank": 5,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "transcription audio sur mac",
+    "metric": "demand",
+    "demand": 30,
+    "appearances": 1,
+    "bestRank": 5,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "audio transcription word mac",
+    "metric": "demand",
+    "demand": 30,
+    "appearances": 1,
+    "bestRank": 5,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "how to transcribe audio to text macbook",
+    "metric": "demand",
+    "demand": 30,
+    "appearances": 1,
+    "bestRank": 5,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "how do i transcribe audio to text for free",
+    "metric": "demand",
+    "demand": 30,
+    "appearances": 1,
+    "bestRank": 5,
+    "seeds": [
+      "whisper transcription app"
+    ]
+  },
+  {
+    "phrase": "local text to speech ai github",
+    "metric": "demand",
+    "demand": 30,
+    "appearances": 1,
+    "bestRank": 5,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "local llm text to speech reddit",
+    "metric": "demand",
+    "demand": 30,
+    "appearances": 1,
+    "bestRank": 5,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "local voice to text model",
+    "metric": "demand",
+    "demand": 30,
+    "appearances": 1,
+    "bestRank": 5,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "n8n local speech to text",
+    "metric": "demand",
+    "demand": 30,
+    "appearances": 1,
+    "bestRank": 5,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "openclaw local speech to text",
+    "metric": "demand",
+    "demand": 30,
+    "appearances": 1,
+    "bestRank": 5,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "sms local text to speech",
+    "metric": "demand",
+    "demand": 30,
+    "appearances": 1,
+    "bestRank": 5,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "speech to text tool free",
+    "metric": "demand",
+    "demand": 30,
+    "appearances": 1,
+    "bestRank": 5,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "transcription vs reverse transcription",
+    "metric": "demand",
+    "demand": 28,
+    "appearances": 2,
+    "bestRank": 8,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "how to learn transcription",
+    "metric": "demand",
+    "demand": 26,
+    "appearances": 1,
+    "bestRank": 6,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "offline speech to text transcription",
+    "metric": "demand",
+    "demand": 26,
+    "appearances": 1,
+    "bestRank": 6,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "offline ai voice transcription",
+    "metric": "demand",
+    "demand": 26,
+    "appearances": 1,
+    "bestRank": 6,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "most accurate transcription software",
+    "metric": "demand",
+    "demand": 26,
+    "appearances": 1,
+    "bestRank": 6,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "transcribe an audio file mac",
+    "metric": "demand",
+    "demand": 26,
+    "appearances": 1,
+    "bestRank": 6,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "mac transcribe audio file to text",
+    "metric": "demand",
+    "demand": 26,
+    "appearances": 1,
+    "bestRank": 6,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "transcribe audio to text in mac os",
+    "metric": "demand",
+    "demand": 26,
+    "appearances": 1,
+    "bestRank": 6,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "audio transcription on mac",
+    "metric": "demand",
+    "demand": 26,
+    "appearances": 1,
+    "bestRank": 6,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "how can i transcribe an audio file for free",
+    "metric": "demand",
+    "demand": 26,
+    "appearances": 1,
+    "bestRank": 6,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "how to transcribe audio on word mac",
+    "metric": "demand",
+    "demand": 26,
+    "appearances": 1,
+    "bestRank": 6,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "how to use whisper app",
+    "metric": "demand",
+    "demand": 26,
+    "appearances": 1,
+    "bestRank": 6,
+    "seeds": [
+      "whisper transcription app"
+    ]
+  },
+  {
+    "phrase": "local voice to text ai",
+    "metric": "demand",
+    "demand": 26,
+    "appearances": 1,
+    "bestRank": 6,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "google speech to text local model",
+    "metric": "demand",
+    "demand": 26,
+    "appearances": 1,
+    "bestRank": 6,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "does word have voice to text",
+    "metric": "demand",
+    "demand": 26,
+    "appearances": 1,
+    "bestRank": 6,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "local llama text to speech",
+    "metric": "demand",
+    "demand": 26,
+    "appearances": 1,
+    "bestRank": 6,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "local only speech to text",
+    "metric": "demand",
+    "demand": 26,
+    "appearances": 1,
+    "bestRank": 6,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "run local speech to text",
+    "metric": "demand",
+    "demand": 26,
+    "appearances": 1,
+    "bestRank": 6,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "speech to text spanish free",
+    "metric": "demand",
+    "demand": 26,
+    "appearances": 1,
+    "bestRank": 6,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "is google speech to text free",
+    "metric": "demand",
+    "demand": 26,
+    "appearances": 1,
+    "bestRank": 6,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "best local llm speech to text",
+    "metric": "demand",
+    "demand": 24,
+    "appearances": 2,
+    "bestRank": 9,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "vibe offline transcription",
+    "metric": "demand",
+    "demand": 22,
+    "appearances": 1,
+    "bestRank": 7,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "transcription audio macos",
+    "metric": "demand",
+    "demand": 22,
+    "appearances": 1,
+    "bestRank": 7,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "transcribe audio in word mac",
+    "metric": "demand",
+    "demand": 22,
+    "appearances": 1,
+    "bestRank": 7,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "transcribe audio recording on mac",
+    "metric": "demand",
+    "demand": 22,
+    "appearances": 1,
+    "bestRank": 7,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "how to transcribe audio recording on mac",
+    "metric": "demand",
+    "demand": 22,
+    "appearances": 1,
+    "bestRank": 7,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "local ai text to speech generator",
+    "metric": "demand",
+    "demand": 22,
+    "appearances": 1,
+    "bestRank": 7,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "best local model for speech to text",
+    "metric": "demand",
+    "demand": 22,
+    "appearances": 1,
+    "bestRank": 7,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "best offline meeting transcription",
+    "metric": "demand",
+    "demand": 18,
+    "appearances": 1,
+    "bestRank": 8,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "vosk offline transcription",
+    "metric": "demand",
+    "demand": 18,
+    "appearances": 1,
+    "bestRank": 8,
+    "seeds": [
+      "offline transcription"
+    ]
+  },
+  {
+    "phrase": "audio transcriber machine",
+    "metric": "demand",
+    "demand": 18,
+    "appearances": 1,
+    "bestRank": 8,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "transcribe audio in notes mac",
+    "metric": "demand",
+    "demand": 18,
+    "appearances": 1,
+    "bestRank": 8,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "word transcribe audio to text mac",
+    "metric": "demand",
+    "demand": 18,
+    "appearances": 1,
+    "bestRank": 8,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "how to get word to transcribe audio mac",
+    "metric": "demand",
+    "demand": 18,
+    "appearances": 1,
+    "bestRank": 8,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "local speech to text model german",
+    "metric": "demand",
+    "demand": 18,
+    "appearances": 1,
+    "bestRank": 8,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "how to send voice to text message",
+    "metric": "demand",
+    "demand": 18,
+    "appearances": 1,
+    "bestRank": 8,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "speech to text laptop windows 10",
+    "metric": "demand",
+    "demand": 18,
+    "appearances": 1,
+    "bestRank": 8,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "local text to speech reader",
+    "metric": "demand",
+    "demand": 18,
+    "appearances": 1,
+    "bestRank": 8,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "local text to speech ai windows",
+    "metric": "demand",
+    "demand": 18,
+    "appearances": 1,
+    "bestRank": 8,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "best local llm for speech to text",
+    "metric": "demand",
+    "demand": 18,
+    "appearances": 1,
+    "bestRank": 8,
+    "seeds": [
+      "local speech to text"
+    ]
+  },
+  {
+    "phrase": "transcribe audio file in word mac",
+    "metric": "demand",
+    "demand": 14,
+    "appearances": 1,
+    "bestRank": 9,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "transcribe audio notes on mac",
+    "metric": "demand",
+    "demand": 14,
+    "appearances": 1,
+    "bestRank": 9,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "how to transcribe audio to text on macbook pro",
+    "metric": "demand",
+    "demand": 14,
+    "appearances": 1,
+    "bestRank": 9,
+    "seeds": [
+      "transcribe audio mac"
+    ]
+  },
+  {
+    "phrase": "whisper transcription apple store",
+    "metric": "demand",
+    "demand": 14,
+    "appearances": 1,
+    "bestRank": 9,
+    "seeds": [
+      "whisper transcription app"
+    ]
+  },
+  {
+    "phrase": "local text to speech ai reddit",
+    "metric": "demand",
+    "demand": 14,
+    "appearances": 1,
+    "bestRank": 9,
+    "seeds": [
+      "local speech to text"
+    ]
+  }
+]

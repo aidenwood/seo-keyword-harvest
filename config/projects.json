@@ -1,0 +1,119 @@
+{
+  "austrails": {
+    "site": "https://austrails.aidxn.com",
+    "gl": "au",
+    "hl": "en",
+    "seeds": [
+      "hiking trails australia",
+      "best day hikes",
+      "offline hiking maps",
+      "walking track grades",
+      "bushwalking",
+      "hiking with kids",
+      "waterfall walks"
+    ],
+    "exclude": [
+      "alltrails",
+      "wikiloc",
+      "komoot",
+      "strava",
+      "gaia gps"
+    ],
+    "blockTerms": [
+      "zion",
+      "vancouver",
+      "appalachian",
+      "hampshire",
+      "queenstown",
+      "queen charlotte",
+      "yosemite",
+      "colorado",
+      "scotland",
+      "wales",
+      "ireland",
+      "canada",
+      "oregon",
+      "washington",
+      "california",
+      "utah",
+      "arizona",
+      "new zealand",
+      "nz ",
+      "uk ",
+      "england",
+      "peak district",
+      "lake district",
+      "snowdonia",
+      "banff",
+      "iceland",
+      "norway",
+      "switzerland",
+      "japan",
+      "bali",
+      "thailand",
+      "vietnam",
+      "nepal",
+      "why is my map offline",
+      "google maps offline",
+      "map offline mode",
+      "offline mode",
+      "download netflix",
+      "spotify offline"
+    ]
+  },
+  "ltx": {
+    "site": "https://ltx.aidxn.com",
+    "gl": "us",
+    "hl": "en",
+    "seeds": [
+      "ai video generation mac",
+      "local video generation",
+      "apple silicon machine learning",
+      "render farm",
+      "mlx apple",
+      "ltx video"
+    ],
+    "exclude": [
+      "runway",
+      "pika labs",
+      "sora pricing"
+    ],
+    "blockTerms": []
+  },
+  "whisperline": {
+    "site": "https://whisperline.aidxn.com",
+    "gl": "us",
+    "hl": "en",
+    "seeds": [
+      "offline transcription",
+      "transcribe audio mac",
+      "whisper transcription app",
+      "local speech to text"
+    ],
+    "exclude": [
+      "otter.ai pricing",
+      "rev.com",
+      "descript pricing"
+    ],
+    "blockTerms": []
+  },
+  "tradepilot": {
+    "site": "https://trade.aidxn.com",
+    "gl": "us",
+    "hl": "en",
+    "seeds": [
+      "ai stock analysis",
+      "stock sentiment analysis",
+      "portfolio tracker app",
+      "free stock screener",
+      "trading alerts"
+    ],
+    "exclude": [
+      "robinhood",
+      "webull",
+      "etoro",
+      "interactive brokers"
+    ],
+    "blockTerms": []
+  }
+}
